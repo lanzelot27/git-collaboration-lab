@@ -2,4 +2,4 @@
 
 ## Project Features
 - Initial setup complete.
-- Ongoing integration tests.
+- Automated CI/CD pipeline integrated.
